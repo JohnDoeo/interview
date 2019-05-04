@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MyTest",
+            "request": "launch",
+            "mainClass": "com.johndoeo.proxy.cglibProxy.MyTest",
+            "projectName": "interview"
+        }
+    ]
+}
