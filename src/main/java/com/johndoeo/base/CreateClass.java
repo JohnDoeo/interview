@@ -9,7 +9,6 @@ public class CreateClass {
     @Test
     public void test1(){
         try {
-
             DataType dataType = (DataType) Class.forName("com.johndoeo.base.DataType").newInstance();
             DataType dataType1 = DataType.class.newInstance();
             Class<DataType> dataTypeClass = DataType.class;

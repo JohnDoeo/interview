@@ -29,6 +29,15 @@ public class ProxyFactory implements MethodInterceptor {
         return en.create();
     }
 
+    /**
+     * 实现的MethodInterceptor的方法
+     * @param obj 指代‘this’，就是这个代理对象
+     * @param method 拦截的方法
+     * @param args 参数列表，基本数据类型会自动进行包装
+     * @param proxy
+     * @return
+     * @throws Throwable
+     */
     @Override
     public Object intercept(Object obj, Method method, Object[] args, MethodProxy proxy) throws Throwable {
         System.out.println("向观众问好");
