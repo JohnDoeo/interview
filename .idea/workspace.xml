@@ -2,14 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7062e8a3-b261-4281-b3bd-d8b51804d5f5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/johndoeo/arithmetic/JieCheng.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/johndoeo/arithmetic/LuoXuanNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/johndoeo/base/BreakLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/johndoeo/base/PrintTrangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/johndoeo/base/io/DiGuiReadFiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/johndoeo/base/io/ReadAndWriteBigFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/johndoeo/base/quate/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/johndoeo/base/quate/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/johndoeo/base/CreateClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/johndoeo/base/CreateClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/johndoeo/proxy/cglibProxy/MyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/johndoeo/proxy/cglibProxy/MyTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/johndoeo/proxy/cglibProxy/ProxyFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/johndoeo/proxy/cglibProxy/ProxyFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/johndoeo/proxy/cglibProxy/Singer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/johndoeo/proxy/cglibProxy/Singer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/johndoeo/arithmetic/MySort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/johndoeo/arithmetic/MySort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/johndoeo/base/TestInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/johndoeo/base/TestInt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/johndoeo/proxy/dynamicProxy/MyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/johndoeo/proxy/dynamicProxy/MyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/johndoeo/arithmetic/MySort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/johndoeo/arithmetic/MySort.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/johndoeo/base/CreateClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/johndoeo/base/CreateClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/johndoeo/multiThread/createThread/UserCallable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/johndoeo/multiThread/createThread/UserCallable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/johndoeo/base/TestInt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/johndoeo/base/TestInt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/johndoeo/jdbc/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/johndoeo/jdbc/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/johndoeo/proxy/cglibProxy/MyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/johndoeo/proxy/cglibProxy/MyTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/johndoeo/proxy/cglibProxy/ProxyFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/johndoeo/proxy/cglibProxy/ProxyFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/johndoeo/proxy/cglibProxy/Singer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/johndoeo/proxy/cglibProxy/Singer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/johndoeo/proxy/dynamicProxy/MyTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/johndoeo/proxy/dynamicProxy/MyTest$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/johndoeo/proxy/dynamicProxy/MyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/johndoeo/proxy/dynamicProxy/MyTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,15 +49,17 @@
     <session id="-1388443082">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="15" />
+          <entry key="project.closed" value="18" />
           <entry key="project.open.time.11" value="4" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.14" value="2" />
           <entry key="project.open.time.15" value="3" />
+          <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="16" />
+          <entry key="project.opened" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -54,7 +69,7 @@
           <entry key="ResultSet" value="1" />
           <entry key="class" value="7" />
           <entry key="html" value="1" />
-          <entry key="java" value="67" />
+          <entry key="java" value="89" />
           <entry key="jpg" value="5" />
           <entry key="md" value="1" />
           <entry key="properties" value="1" />
@@ -67,7 +82,7 @@
           <entry key="CLASS" value="7" />
           <entry key="HTML" value="1" />
           <entry key="Image" value="5" />
-          <entry key="JAVA" value="67" />
+          <entry key="JAVA" value="89" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="2" />
           <entry key="Properties" value="1" />
@@ -80,18 +95,19 @@
         <counts>
           <entry key="READEME" value="21" />
           <entry key="README" value="26" />
-          <entry key="java" value="1147" />
+          <entry key="java" value="2558" />
           <entry key="md" value="1" />
           <entry key="properties" value="10" />
           <entry key="sql" value="2" />
+          <entry key="txt" value="11" />
           <entry key="xml" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1147" />
+          <entry key="JAVA" value="2558" />
           <entry key="Markdown" value="1" />
-          <entry key="PLAIN_TEXT" value="47" />
+          <entry key="PLAIN_TEXT" value="58" />
           <entry key="Properties" value="10" />
           <entry key="SQL" value="2" />
           <entry key="XML" value="18" />
@@ -101,29 +117,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/johndoeo/proxy/cglibProxy/ProxyFactory.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/johndoeo/proxy/dynamicProxy/MyTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="36" column="19" lean-forward="true" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
+            <state relative-caret-position="255">
+              <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/cglib/cglib/3.2.10/cglib-3.2.10-sources.jar!/net/sf/cglib/proxy/MethodInterceptor.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/johndoeo/base/BreakLoops.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="39" column="49" selection-start-line="39" selection-start-column="49" selection-end-line="39" selection-end-column="49" />
+            <state relative-caret-position="153">
+              <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/johndoeo/jdbc/JDBCutils.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/johndoeo/base/io/ReadAndWriteBigFile.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1972">
-              <caret line="116" column="20" selection-start-line="116" selection-start-column="20" selection-end-line="116" selection-end-column="20" />
+            <state relative-caret-position="340">
+              <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -132,55 +148,28 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/johndoeo/base/CreateClass.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/johndoeo/base/io/DiGuiReadFiles.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="21" column="28" selection-start-line="21" selection-start-column="22" selection-end-line="22" selection-end-column="26" />
+            <state relative-caret-position="663">
+              <caret line="39" column="31" selection-start-line="39" selection-start-column="31" selection-end-line="39" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/johndoeo/proxy/cglibProxy/MyTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/johndoeo/arithmetic/MySort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="34" lean-forward="true" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+            <state relative-caret-position="2805">
+              <caret line="166" selection-start-line="166" selection-end-line="166" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/johndoeo/proxy/dynamicProxy/ISinger.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/johndoeo/multiThread/createThread/UserCallable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/johndoeo/proxy/dynamicProxy/Singer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/johndoeo/proxy/dynamicProxy/MyTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/johndoeo/proxy/cglibProxy/Singer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+            <state relative-caret-position="147">
+              <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -200,6 +189,11 @@
     <findStrings>
       <find>排序</find>
       <find>resources</find>
+      <find>getProxyClass</find>
+      <find>getProxyinstance</find>
+      <find>newProxyInstance</find>
+      <find>public</find>
+      <find>public</find>
     </findStrings>
     <dirStrings>
       <dir>D:\javaProject\interview\src\main\resources\result</dir>
@@ -233,7 +227,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/johndoeo/arithmetic/README" />
         <option value="$PROJECT_DIR$/src/main/java/com/johndoeo/utils/WechatMessagingUtil.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/johndoeo/utils/GeettestCrawler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/johndoeo/multiThread/createThread/UserCallable.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/johndoeo/jdbc/User.java" />
         <option value="$PROJECT_DIR$/src/main/resources/JDBCu-p.properties" />
         <option value="$PROJECT_DIR$/src/main/java/com/johndoeo/jdbc/JDBCutils.java" />
@@ -241,6 +234,18 @@
         <option value="$PROJECT_DIR$/src/main/java/com/johndoeo/proxy/cglibProxy/Singer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/johndoeo/proxy/cglibProxy/MyTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/johndoeo/proxy/cglibProxy/ProxyFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/johndoeo/arithmetic/JieCheng.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/johndoeo/arithmetic/LuoXuanNum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/johndoeo/base/PrintTrangle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/johndoeo/base/quate/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/johndoeo/base/quate/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/johndoeo/base/TestInt.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/johndoeo/proxy/dynamicProxy/MyTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/johndoeo/base/BreakLoops.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/johndoeo/base/io/ReadAndWriteBigFile.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/johndoeo/base/io/DiGuiReadFiles.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/johndoeo/arithmetic/MySort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/johndoeo/multiThread/createThread/UserCallable.java" />
       </list>
     </option>
   </component>
@@ -269,8 +274,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -322,6 +325,16 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="johndoeo" type="462c0819:PsiDirectoryNode" />
+              <item name="arithmetic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interview" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="johndoeo" type="462c0819:PsiDirectoryNode" />
               <item name="base" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -332,29 +345,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="johndoeo" type="462c0819:PsiDirectoryNode" />
-              <item name="proxy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="interview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="interview" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="johndoeo" type="462c0819:PsiDirectoryNode" />
-              <item name="proxy" type="462c0819:PsiDirectoryNode" />
-              <item name="cglibProxy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="interview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="interview" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="johndoeo" type="462c0819:PsiDirectoryNode" />
-              <item name="proxy" type="462c0819:PsiDirectoryNode" />
-              <item name="dynamicProxy" type="462c0819:PsiDirectoryNode" />
+              <item name="multiThread" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="interview" type="b2602c69:ProjectViewProjectNode" />
@@ -377,18 +368,21 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="GO_FMT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556964316172" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557129848256" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.updates" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -410,13 +404,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MyTest">
-    <configuration name="GeettestCrawler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.johndoeo.utils.GeettestCrawler" />
+  <component name="RunManager" selected="Application.UserCallable">
+    <configuration name="BreakLoops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.johndoeo.base.BreakLoops" />
       <module name="interview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.johndoeo.utils.*" />
+          <option name="PATTERN" value="com.johndoeo.base.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiGuiReadFiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.johndoeo.base.io.DiGuiReadFiles" />
+      <module name="interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.johndoeo.base.io.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MySort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.johndoeo.arithmetic.MySort" />
+      <module name="interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.johndoeo.arithmetic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -425,11 +445,11 @@
       </method>
     </configuration>
     <configuration name="MyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.johndoeo.proxy.cglibProxy.MyTest" />
+      <option name="MAIN_CLASS_NAME" value="com.johndoeo.proxy.dynamicProxy.MyTest" />
       <module name="interview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.johndoeo.proxy.cglibProxy.*" />
+          <option name="PATTERN" value="com.johndoeo.proxy.dynamicProxy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -437,62 +457,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ParseImg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.johndoeo.parseImg.ParseImg" />
+    <configuration name="UserCallable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.johndoeo.multiThread.createThread.UserCallable" />
       <module name="interview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.johndoeo.parseImg.*" />
+          <option name="PATTERN" value="com.johndoeo.multiThread.createThread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestTesseractParseImg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.johndoeo.parseImg.TestTesseractParseImg" />
-      <module name="interview" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.johndoeo.parseImg.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test.getUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="interview" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.johndoeo.jdbc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.johndoeo.jdbc" />
-      <option name="MAIN_CLASS_NAME" value="com.johndoeo.jdbc.Test" />
-      <option name="METHOD_NAME" value="getUser" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ParseImg" />
-      <item itemvalue="Application.TestTesseractParseImg" />
-      <item itemvalue="Application.GeettestCrawler" />
-      <item itemvalue="JUnit.Test.getUser" />
       <item itemvalue="Application.MyTest" />
+      <item itemvalue="Application.BreakLoops" />
+      <item itemvalue="Application.DiGuiReadFiles" />
+      <item itemvalue="Application.MySort" />
+      <item itemvalue="Application.UserCallable" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UserCallable" />
+        <item itemvalue="Application.MySort" />
+        <item itemvalue="Application.DiGuiReadFiles" />
+        <item itemvalue="Application.BreakLoops" />
         <item itemvalue="Application.MyTest" />
-        <item itemvalue="JUnit.Test.getUser" />
-        <item itemvalue="Application.GeettestCrawler" />
-        <item itemvalue="Application.TestTesseractParseImg" />
-        <item itemvalue="Application.ParseImg" />
       </list>
     </recent_temporary>
   </component>
@@ -521,8 +512,19 @@
       <workItem from="1556002203554" duration="615000" />
       <workItem from="1556077493962" duration="265000" />
       <workItem from="1556097211721" duration="26569000" />
-      <workItem from="1556940321450" duration="3504000" />
+      <workItem from="1556940321450" duration="8744000" />
+      <workItem from="1557033870302" duration="6600000" />
+      <workItem from="1557107913439" duration="1013000" />
+      <workItem from="1557128983256" duration="1467000" />
     </task>
+    <task id="LOCAL-00001" summary="对代理方法的修改">
+      <created>1556964353002</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1556964353002</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -534,13 +536,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38750000" />
+    <option name="totallyTimeSpent" value="53070000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3177041" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21099435" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -549,7 +550,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4995958" visible="true" weight="0.30071175" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4995958" visible="true" weight="0.31672597" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39679715" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -557,7 +558,7 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5004042" side_tool="true" weight="0.20959148" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.3291815" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3285968" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -574,119 +575,40 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="对代理方法的修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="对代理方法的修改" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/johndoeo/multiThread/createThread/UseRunnable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="67">
-          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/johndoeo/thread/CreateThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/johndoeo/multiThread/pc_blockingQueue/Customer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/result/full-imageresult3.jpg" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/johndoeo/utils/Geek.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1394">
-          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/johndoeo/utils/FileUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="76" column="42" selection-start-line="76" selection-start-column="42" selection-end-line="76" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/johndoeo/utils/JSONUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/johndoeo/arithmetic/README">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" selection-start-column="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/johndoeo/utils/boss_bean/City.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-273">
-          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/johndoeo/utils/WechatMessagingUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="185" column="36" lean-forward="true" selection-start-line="185" selection-start-column="36" selection-end-line="185" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/johndoeo/utils/BossSpider.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2346">
-          <caret line="36" column="43" selection-start-line="36" selection-start-column="43" selection-end-line="36" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/johndoeo/multiThread/createThread/UserCallable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="222" column="54" selection-start-line="222" selection-start-column="54" selection-end-line="222" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/cglib/cglib/3.2.10/cglib-3.2.10.jar!/net/sf/cglib/proxy/Enhancer.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="73" column="28" selection-start-line="73" selection-start-column="28" selection-end-line="73" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk/src.zip!/java/lang/reflect/InvocationHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="92" column="18" selection-start-line="92" selection-start-column="18" selection-end-line="92" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/johndoeo/proxy/staticProxy/MyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/johndoeo/parseImg/TestTesseractParseImg.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="151">
@@ -743,20 +665,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/johndoeo/base/TestInt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="29" lean-forward="true" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/johndoeo/arithmetic/MySort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="75" column="21" lean-forward="true" selection-start-line="75" selection-start-column="21" selection-end-line="75" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -871,20 +779,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/johndoeo/proxy/staticProxy/SingerProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/johndoeo/proxy/staticProxy/Singer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/johndoeo/parseImg/ParseImg.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -912,24 +806,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/johndoeo/proxy/dynamicProxy/ISinger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/johndoeo/proxy/dynamicProxy/Singer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/johndoeo/proxy/dynamicProxy/MyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
         </state>
       </provider>
     </entry>
@@ -947,31 +827,187 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/cglib/cglib/3.2.10/cglib-3.2.10-sources.jar!/net/sf/cglib/proxy/MethodInterceptor.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/johndoeo/base/QuateTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/johndoeo/proxy/cglibProxy/ProxyFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="39" column="49" selection-start-line="39" selection-start-column="49" selection-end-line="39" selection-end-column="49" />
+        <state relative-caret-position="510">
+          <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/johndoeo/proxy/cglibProxy/Singer.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/johndoeo/arithmetic/JieCheng.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        <state relative-caret-position="187">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/johndoeo/arithmetic/LuoXuanNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="33" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/johndoeo/base/PrintTrangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/johndoeo/base/quate/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+          <folding>
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#266#267#0" expanded="true" />
+            <element signature="e#306#307#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/johndoeo/base/quate/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="49" selection-start-line="13" selection-start-column="49" selection-end-line="13" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/cglib/cglib/3.2.10/cglib-3.2.10-sources.jar!/net/sf/cglib/proxy/MethodInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="39" column="49" selection-start-line="39" selection-start-column="49" selection-end-line="39" selection-end-column="49" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/johndoeo/proxy/cglibProxy/MyTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" column="34" lean-forward="true" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/johndoeo/proxy/cglibProxy/ProxyFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/johndoeo/proxy/cglibProxy/Singer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/johndoeo/proxy/dynamicProxy/ISinger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="27" lean-forward="true" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="332" column="34" selection-start-line="332" selection-start-column="34" selection-end-line="332" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/johndoeo/base/TestInt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/johndoeo/proxy/staticProxy/Singer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="36" column="19" lean-forward="true" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk/src.zip!/java/util/concurrent/Callable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="57" column="30" lean-forward="true" selection-start-line="57" selection-start-column="30" selection-end-line="57" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/johndoeo/proxy/staticProxy/SingerProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/johndoeo/proxy/dynamicProxy/MyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/johndoeo/base/BreakLoops.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/johndoeo/base/io/ReadAndWriteBigFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/johndoeo/base/io/DiGuiReadFiles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="31" selection-start-line="39" selection-start-column="31" selection-end-line="39" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/johndoeo/arithmetic/MySort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2805">
+          <caret line="166" selection-start-line="166" selection-end-line="166" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13124">
+          <caret line="845" column="25" selection-start-line="845" selection-start-column="25" selection-end-line="845" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk/src.zip!/java/lang/reflect/Proxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10812">
+          <caret line="679" column="35" selection-start-line="679" selection-start-column="35" selection-end-line="679" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk/src.zip!/java/util/concurrent/FutureTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="187" column="68" lean-forward="true" selection-start-line="187" selection-start-column="68" selection-end-line="187" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="507" column="69" lean-forward="true" selection-start-line="507" selection-start-column="69" selection-end-line="507" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/johndoeo/multiThread/createThread/UserCallable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
         </state>
       </provider>
     </entry>

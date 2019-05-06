@@ -15,7 +15,7 @@ public class MyTest {
                 new InvocationHandler() {
                     /**
                      *
-                     * @param proxy 代理对象
+                     * @param proxy 代理的真实对象
                      * @param method 被代理的方法
                      * @param args 被代理方法的参数列表
                      * @return
